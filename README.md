@@ -1,4 +1,4 @@
-### Hi there, I'm Omm Prakash Samal! 👋🚀
+### Hi there, I'm **Omm Prakash Samal!** 👋🚀
 
 
 ## 🚀 About Me
@@ -15,9 +15,8 @@ I'm a **Full Stack Java Developer** passionate about building scalable web appli
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -43,7 +42,7 @@ I'm a **Full Stack Java Developer** passionate about building scalable web appli
 ---
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ommprakashsamal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omm-prakash-samal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ommprakashsamal9@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
