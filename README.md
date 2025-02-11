@@ -36,8 +36,9 @@ I'm a **Full Stack Java Developer** passionate about building scalable web appli
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omsml&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
   <img src="https://github-readme-stats.vercel.app/api?username=omsml&show_icons=true&locale=en" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.vercel.app?user=omsml&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=omsml&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 
 
 
