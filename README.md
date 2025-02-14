@@ -7,7 +7,7 @@ I'm a **Full Stack Java Developer** passionate about building scalable web appli
 - 🔭 **Currently working on:** Dynamic web applications for educational organizations
 - 🌱 **Currently learning:** Advanced Spring Boot & Microservices
 - 👯 **Looking to collaborate on:** Open-source Java & Spring Boot projects
-- 💬 **Ask me about:** Java, Backend Development, APIs, and Databases
+- 💬 **Ask me about:** Java, Backend Development, Frontend Development, Full Stack Development, APIs, and Databases
 - 📫 **How to reach me:** [Email](mailto:ommprakashsamal9@gmail.com) | [LinkedIn](https://www.linkedin.com/in/omm-prakash-samal)
 
 ---
