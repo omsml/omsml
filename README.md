@@ -49,7 +49,7 @@ I'm a **Full Stack Java Developer** passionate about building scalable web appli
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omm-prakash-samal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ommprakashsamal9@gmail.com)
-[![Portfolio](https://ommprakashsamalportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=portfolio&logoColor=white)](https://ommprakashsamalportfolio.netlify.app/)
 
 ---
 
